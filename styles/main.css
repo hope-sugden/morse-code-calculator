@@ -2,11 +2,13 @@ output {
   width: 20rem;
   border: 1px solid black;
   height: 4rem;
-  text-align: center;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   border-radius: 0.5rem;
   background-color: #E2D1F9;
+  color: black;
+  display: flex;
+  align-items: center;
 }
 
 input {
